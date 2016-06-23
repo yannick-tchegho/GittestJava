@@ -16,7 +16,7 @@ public class GitJavaTest {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    int t  =  0 ;
+    int t  =  10 ;
     }
     
 }
